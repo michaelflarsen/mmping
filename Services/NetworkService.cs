@@ -7,10 +7,10 @@ using System.Net.Sockets;
 using System.Diagnostics;
 using System.Text;
 using System.Threading.Tasks;
-using MMPing.Models;
-using MMPing.Utils;
+using M1Scan.Models;
+using M1Scan.Utils;
 
-namespace MMPing.Services
+namespace M1Scan.Services
 {
     public interface INetworkService
     {

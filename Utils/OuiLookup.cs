@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace MMPing.Utils
+namespace M1Scan.Utils
 {
     public static class OuiLookup
     {

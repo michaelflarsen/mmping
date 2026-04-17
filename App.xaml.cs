@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace MMPing
+namespace M1Scan
 {
     public partial class App : Application
     {

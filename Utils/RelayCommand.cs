@@ -6,7 +6,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
 
-namespace MMPing.Utils
+namespace M1Scan.Utils
 {
     public class RelayCommand : ICommand
     {

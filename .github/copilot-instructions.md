@@ -1,6 +1,6 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. -->
 
-# MMPing - Network Utility Application
+# M1Scan - Network Utility Application
 
 **Project Type:** C# WPF Desktop Application  
 **Framework:** .NET 8.0 Windows Desktop  
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-MMPing is an advanced Windows network utility featuring:
+M1Scan is an advanced Windows network utility featuring:
 - Network adapter management and monitoring
 - Network scanning (Ping/ARP discoveries)
 - IP address configuration (Static/DHCP)
@@ -67,7 +67,7 @@ dotnet build
 dotnet run
 
 # Run with elevation (if needed for IP config)
-# Right-click MMPing.exe > Run as Administrator
+# Right-click M1Scan.exe > Run as Administrator
 ```
 
 ## Known Limitations

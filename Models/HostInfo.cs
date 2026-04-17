@@ -1,7 +1,7 @@
 using System;
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace MMPing.Models
+namespace M1Scan.Models
 {
     public class HostInfo : ObservableObject
     {

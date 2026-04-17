@@ -5,8 +5,8 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
     <UseWindowsForms>false</UseWindowsForms>
-    <RootNamespace>MMPing</RootNamespace>
-    <AssemblyName>MMPing</AssemblyName>
+    <RootNamespace>M1Scan</RootNamespace>
+    <AssemblyName>M1Scan</AssemblyName>
     <Version>1.0.2</Version>
     <Authors>Michael Larsen</Authors>
     <Description>Advanced Windows Network Utility - Network Scanning, IP Management, ARP/Ping</Description>

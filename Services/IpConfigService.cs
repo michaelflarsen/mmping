@@ -1,9 +1,9 @@
 using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using MMPing.Models;
+using M1Scan.Models;
 
-namespace MMPing.Services
+namespace M1Scan.Services
 {
     public interface IIpConfigService
     {

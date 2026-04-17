@@ -1,7 +1,7 @@
 using System.Windows;
-using MMPing.ViewModels;
+using M1Scan.ViewModels;
 
-namespace MMPing.Views
+namespace M1Scan.Views
 {
     public partial class MainWindow : Window
     {

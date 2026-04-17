@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace MMPing.Utils
+namespace M1Scan.Utils
 {
     public class InverseBoolConverter : IValueConverter
     {

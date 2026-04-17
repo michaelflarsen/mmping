@@ -6,11 +6,11 @@ using System.Net;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Threading;
-using MMPing.Models;
-using MMPing.Services;
-using MMPing.Utils;
+using M1Scan.Models;
+using M1Scan.Services;
+using M1Scan.Utils;
 
-namespace MMPing.ViewModels
+namespace M1Scan.ViewModels
 {
     public class NetworkScanViewModel : ObservableObject
     {

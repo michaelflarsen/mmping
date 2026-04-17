@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace MMPing.Models
+namespace M1Scan.Models
 {
     public class IpProfile
     {

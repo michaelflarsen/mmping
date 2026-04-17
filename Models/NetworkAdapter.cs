@@ -1,6 +1,6 @@
 using System;
 
-namespace MMPing.Models
+namespace M1Scan.Models
 {
     public class NetworkAdapter
     {

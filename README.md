@@ -1,4 +1,4 @@
-# MMPing - Advanced Windows Network Utility
+# M1Scan - Advanced Windows Network Utility
 
 A professional Windows desktop application built with C# WPF for network management, scanning, and IP configuration.
 
@@ -44,14 +44,14 @@ A professional Windows desktop application built with C# WPF for network managem
 
 ### From Source
 1. Clone the repository
-2. Open `MMPing.csproj` in Visual Studio 2022
+2. Open `M1Scan.csproj` in Visual Studio 2022
 3. Restore NuGet packages
 4. Build the project (Ctrl+Shift+B)
 5. Run with F5
 
 ### From Binary
 - Download the latest release from GitHub
-- Extract and run `MMPing.exe`
+- Extract and run `M1Scan.exe`
 - Right-click and select "Run as administrator" for IP configuration features
 
 ## 📖 Usage
@@ -85,7 +85,7 @@ A professional Windows desktop application built with C# WPF for network managem
 ## 🏗️ Project Structure
 
 ```
-MMPing/
+M1Scan/
 ├── Models/                    # Data models
 │   ├── NetworkAdapter.cs      # Network adapter info
 │   ├── HostInfo.cs            # Ping/discovered host info
@@ -104,7 +104,7 @@ MMPing/
 ├── Resources/
 │   └── Themes/DarkTheme.xaml  # Dark theme styles
 ├── App.xaml                   # Application resources
-└── MMPing.csproj              # Project file
+└── M1Scan.csproj              # Project file
 ```
 
 ## 🔐 Permissions
